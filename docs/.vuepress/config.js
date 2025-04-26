@@ -8,8 +8,8 @@ export default defineUserConfig({
 
   lang: 'en-US',
 
-  title: 'VuePress',
-  description: 'My first VuePress Site',
+  title: "EK's Blog",
+  description: '「人类：我要写个博客；ChatGPT：不，你不想。」',
 
   theme: defaultTheme({
     logo: 'https://vuejs.press/images/hero.png',
